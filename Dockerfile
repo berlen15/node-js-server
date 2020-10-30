@@ -1,1 +1,1 @@
-FROM 1and1internet/ubuntu-16-apache
+FROM ubunutu
